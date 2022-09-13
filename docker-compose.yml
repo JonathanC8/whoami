@@ -1,0 +1,15 @@
+services:
+
+  build:
+    image: klakegg/hugo:0.101.0
+    volumes:
+      - "./src:/src"
+
+  server:
+    image: klakegg/hugo:0.101.0
+    command: server
+    volumes:
+      - "./src:/src"
+    ports:
+      - "1313:1313"
+    restart: unless-stopped
