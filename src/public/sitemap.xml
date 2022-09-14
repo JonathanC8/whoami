@@ -2,17 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/posts/my-first-post/</loc>
-    <lastmod>2022-07-07T15:25:32+00:00</lastmod>
+    <loc>https://jonathancammack.333cloud.net/</loc>
+    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
-    <lastmod>2022-07-07T15:25:32+00:00</lastmod>
+    <loc>https://jonathancammack.333cloud.net/about/</loc>
+    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2022-07-07T15:25:32+00:00</lastmod>
+    <loc>https://jonathancammack.333cloud.net/categories/blog/</loc>
+    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://jonathancammack.333cloud.net/categories/</loc>
+    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://jonathancammack.333cloud.net/p/hello-world/</loc>
+    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jonathancammack.333cloud.net/page/</loc>
+    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jonathancammack.333cloud.net/post/</loc>
+    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jonathancammack.333cloud.net/tags/</loc>
+    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jonathancammack.333cloud.net/tags/website/</loc>
+    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jonathancammack.333cloud.net/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jonathancammack.333cloud.net/links/</loc>
+  </url><url>
+    <loc>https://jonathancammack.333cloud.net/search/</loc>
   </url>
 </urlset>
