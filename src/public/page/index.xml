@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on Jonathan Cammack</title>
+        <link>https://jonathancammack.333cloud.net/page/</link>
+        <description>Recent content in Pages on Jonathan Cammack</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 14 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jonathancammack.333cloud.net/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About</title>
+        <link>https://jonathancammack.333cloud.net/about/</link>
+        <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://jonathancammack.333cloud.net/about/</guid>
+        <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;
+&lt;p&gt;Hello my name is Jonathan and this is my website. It&amp;rsquo;s made with Hugo which more information can be found below. In general its a markdown static site generator that is very fun and easy to use. I host this website on my own servers at home called the 333Cloud, I named it that because I was born at 3:33 PM neat right? Anyway this website will contain my latest projects, insights, opinions, and blogs though I only blog every once in a blue moon. For now my hobbies are Computers(anything and everything related to them), Astronomy, Video Games, and Golf. I do have more hobbies but these are the main ones I focus on and I have some sort of skills for.&lt;/p&gt;
+&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Apache Licence 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
+&lt;p&gt;Learn more and contribute on &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Archives</title>
+        <link>https://jonathancammack.333cloud.net/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://jonathancammack.333cloud.net/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Links</title>
+        <link>https://jonathancammack.333cloud.net/links/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://jonathancammack.333cloud.net/links/</guid>
+        <description>&lt;p&gt;Some links to where you can find me.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>https://jonathancammack.333cloud.net/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://jonathancammack.333cloud.net/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

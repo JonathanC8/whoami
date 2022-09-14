@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Blog on Jonathan Cammack</title>
+        <link>https://jonathancammack.333cloud.net/categories/blog/</link>
+        <description>Recent content in Blog on Jonathan Cammack</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 14 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jonathancammack.333cloud.net/categories/blog/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hello World!</title>
+        <link>https://jonathancammack.333cloud.net/p/hello-world/</link>
+        <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://jonathancammack.333cloud.net/p/hello-world/</guid>
+        <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World!&lt;/h1&gt;
+&lt;p&gt;Welcome to my website my name is Jonathan and here you will find my blogs and updates on my latest projects. This website will always be a work in progress along with my other projects but feel free to look around and read all you like.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
