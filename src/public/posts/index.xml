@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on Jonathan Cammack</title>
-        <link>http://example.org/posts/</link>
-        <description>Recent content in Posts on Jonathan Cammack</description>
+        <title>Posts on Example Site</title>
+        <link>https://example.com/posts/</link>
+        <description>Recent content in Posts on Example Site</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 07 Jul 2022 15:25:32 +0000</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>My First Post</title>
-        <link>http://example.org/posts/my-first-post/</link>
-        <pubDate>Thu, 07 Jul 2022 15:25:32 +0000</pubDate>
+        <lastBuildDate>Tue, 13 Sep 2022 18:40:35 -0500</lastBuildDate><atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hello World</title>
+        <link>https://example.com/posts/hello-world/</link>
+        <pubDate>Tue, 13 Sep 2022 18:40:35 -0500</pubDate>
         
-        <guid>http://example.org/posts/my-first-post/</guid>
-        <description>&lt;h1 id=&#34;hello-mom&#34;&gt;Hello Mom!&lt;/h1&gt;
-&lt;p&gt;It works wow.&lt;/p&gt;
+        <guid>https://example.com/posts/hello-world/</guid>
+        <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello world!&lt;/h1&gt;
 </description>
         </item>
         
