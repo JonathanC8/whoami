@@ -44,7 +44,7 @@ params:
 
     sidebar:
         emoji: 
-        subtitle: Programmer, Instructor, and IT enthuesiast. 
+        subtitle: Programmer, Instructor, and IT enthusiast. 
         avatar:
             enabled: true
             local: true

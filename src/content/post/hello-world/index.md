@@ -7,9 +7,9 @@ tags = [
     "website"
 ]
 categories = [
-    "blog"
+    "Blog"
 ]
-aliases = ["migrate-from-jekyl"]
+aliases = ["migrate-from-wordpress"]
 image = ""
 +++
 

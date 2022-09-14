@@ -6,45 +6,13 @@
         <description>Recent content in Categories on Jonathan Cammack</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://jonathancammack.333cloud.net/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>blog</title>
+        <lastBuildDate>Wed, 14 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jonathancammack.333cloud.net/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Blog</title>
         <link>https://jonathancammack.333cloud.net/categories/blog/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
         
         <guid>https://jonathancammack.333cloud.net/categories/blog/</guid>
         <description></description>
-        </item>
-        <item>
-        <title>syntax</title>
-        <link>https://jonathancammack.333cloud.net/categories/syntax/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://jonathancammack.333cloud.net/categories/syntax/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>themes</title>
-        <link>https://jonathancammack.333cloud.net/categories/themes/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://jonathancammack.333cloud.net/categories/themes/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Template</title>
-        <link>https://jonathancammack.333cloud.net/categories/template/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://jonathancammack.333cloud.net/categories/template/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Test</title>
-        <link>https://jonathancammack.333cloud.net/categories/test/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://jonathancammack.333cloud.net/categories/test/</guid>
-        <description>&lt;img src="https://jonathancammack.333cloud.net/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
         </item>
         
     </channel>
