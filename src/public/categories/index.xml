@@ -14,6 +14,22 @@
         <guid>https://jonathancammack.333cloud.net/categories/blog/</guid>
         <description></description>
         </item>
+        <item>
+        <title>template1</title>
+        <link>https://jonathancammack.333cloud.net/categories/template1/</link>
+        <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://jonathancammack.333cloud.net/categories/template1/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>template2</title>
+        <link>https://jonathancammack.333cloud.net/categories/template2/</link>
+        <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://jonathancammack.333cloud.net/categories/template2/</guid>
+        <description></description>
+        </item>
         
     </channel>
 </rss>
