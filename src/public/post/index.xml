@@ -49,6 +49,33 @@
 &lt;p&gt;Iubar proles corpore raptos vero auctor imperium; sed et huic: manus caeli Lelegas tu lux. Verbis obstitit intus oblectamina fixis linguisque ausus sperare Echionides cornuaque tenent clausit possit. Omnia putatur. Praeteritae refert ausus; ferebant e primus lora nutat, vici quae mea ipse. Et iter nil spectatae vulnus haerentia iuste et exercebat, sui et.&lt;/p&gt;
 &lt;p&gt;Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit sequitur. Vel &lt;strong&gt;mitis temploque&lt;/strong&gt; vocatus, inque alis, &lt;em&gt;oculos nomen&lt;/em&gt; non silvis corpore coniunx ne displicet illa. Crescunt non unus, vidit visa quantum inmiti flumina mortis facto sic: undique a alios vincula sunt iactata abdita! Suspenderat ego fuit tendit: luna, ante urbem Propoetides &lt;strong&gt;parte&lt;/strong&gt;.&lt;/p&gt;</description>
         </item>
+        <item>
+        <title>Securing 333Cloud</title>
+        <link>https://jonathancammack.333cloud.net/p/securing-333cloud/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://jonathancammack.333cloud.net/p/securing-333cloud/</guid>
+        <description>&lt;h1 id=&#34;preface&#34;&gt;Preface&lt;/h1&gt;
+&lt;p&gt;Recently, I have secured my servers using Linode. If you didn&amp;rsquo;t know all of my servers run through a proxy I created in Linode, the Ubuntu server I run on Linode is a small single cpu vm routes all of my server traffic between the internet and my front-facing servers. I use a wireguard tunnel which my servers connect to and route their services to such as Minecraft and my website. This for one, is a major improvement to security since my port-forwarding on my home internet days, however, that&amp;rsquo;s not the focus of this article. Until recently my Linode server was kind of neglected as far as security configuration goes, I always thought the threat level to my small scale of services was too low to worry about so I always pushed off the extra security my server should have. Of course I used a strong password and closed ports that shouldn&amp;rsquo;t be accessed but that&amp;rsquo;s not enought in my opinion so here is what I did.&lt;/p&gt;
+&lt;h1 id=&#34;ssh-hardening&#34;&gt;SSH Hardening&lt;/h1&gt;
+&lt;p&gt;First, I began hardening the SSH connection, generally speaking SSH is pretty secure it has encryption and requires knowledge of the username and password to connect. That&amp;rsquo;s not enough in this day in age with the advent of extremely powerful consumer graphics cards password cracking is a real threat especially if you use the root account for your SSH management(my first major mistake). Luckily I haven&amp;rsquo;t been hacked before but generally speaking that was a bad idea so I went ahead and created a new user for myself in which I will keep the details undisclosed, that should in theory be almost the same level as a double password however if the root account can still be used its useless. So I configured SSH to where you cannot login using the root account and you must have the private key in order to connect. Now that second part is really important and practically makes your server impenetrable as long as your private key doesn&amp;rsquo;t get leaked.&lt;/p&gt;
+&lt;h1 id=&#34;blocking-ports-and-leaving-ufw&#34;&gt;Blocking ports and leaving UFW&lt;/h1&gt;
+&lt;p&gt;Usually in most cases UFW for Ubuntu is enough for a server however since my server acts as a proxy/router for my self-hosted services UFW can be troublesome with the currect iptables I have configured. So to solve this problem I have taught myself iptables which wasn&amp;rsquo;t too complicated but it has a lot of content that I have not perfected just yet. So using iptables I blocked all access to my server except through ports 443(HTTPS) and 51820(Wireguard)&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>The Stack</title>
+        <link>https://jonathancammack.333cloud.net/p/the-stack/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://jonathancammack.333cloud.net/p/the-stack/</guid>
+        <description>&lt;h3 id=&#34;333cloud&#34;&gt;333Cloud&lt;/h3&gt;
+&lt;p&gt;The name 333Cloud originates from my birth hour being at 3:33PM I thought that was neat. These servers are for personal and learning purposes, so far I have learned a lot about servers and how to manage them.My server rack consists of a 2x4 skeleton and particle board walls. It was built in mind to be quiet and to fit in a room as makeshift furniture. It is still incomplete needing some adjustments to make it actually look decent however it keeps the rack quiet and cool especially with the box fan I installed in the back to move air throughout the whole chassis. The server rack consists of three enterprise servers and a 24-port gigabit network switch. Two servers being HP Proliants and one being a Dell Poweredge. I try to practice and sharpen my skills with these servers along with learning new ones. My main focus is to develop my own self-provisioning cloud that also contains my web server and game servers for personal purposes along with providing services to friends and family. The server hardware consists of one HP Proliant dl380p with 64GB of ram and dual Intel Xeon E5 2660 V1, one HP Proliant dl360p with 64GB of ram and dual Intel Xeon E5 2640 V1, one Dell Poweredge r210 with 4GB(will be upgraded to 16GB) and one Intel Xeon E3 3440, and a HP 24-port Gigabit switch.&lt;/p&gt;
+&lt;h3 id=&#34;the-services&#34;&gt;The Services&lt;/h3&gt;
+&lt;p&gt;At the moment the services consist of four Minecraft servers, an Unturned server, a Space Engineers server, this website, Nextcloud, two TrueNAS servers for backup hosting,&lt;/p&gt;
+&lt;h3 id=&#34;the-future-of-333cloud&#34;&gt;The Future of 333Cloud&lt;/h3&gt;
+</description>
+        </item>
         
     </channel>
 </rss>
